@@ -1,0 +1,145 @@
+.them {
+    background-image: url(images/donation13.jpg);
+    height: 400px;
+    width: 100%;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.them p {
+    color: white;
+    text-align: center;
+
+}
+
+button {
+    background-color: aqua;
+    height: 30px;
+    width: 100px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.donate-now {
+    text-align: center;
+}
+
+.text {
+    text-align: justify;
+    color: white;
+    text-align: center;
+
+}
+
+.text-2 {
+    text-align: justify;
+    color: black;
+    text-align: center;
+
+}
+
+.tk {
+    display: flex;
+}
+
+.amount {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 17%;
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#select {
+    background-color: aqua;
+    color: brown;
+    border-style: solid;
+    border-color: brown;
+}
+
+#plan {
+    color: black;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    border: 10px;
+    width: 30%;
+    float: left;
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+.container {
+    text-align: center;
+    color: rgb(3, 13, 22);
+}
+
+#food {
+    background-color: rgb(159, 214, 196);
+}
+
+#shelter {
+    background-color: rgb(148, 171, 213);
+}
+
+.Contribute {
+    height: 50px;
+    width: 150px;
+}
+
+.help {
+    display: flex;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+
+.pic {
+    width: 40%;
+    height: 250px;
+    display: flex;
+}
+
+.help-text {
+    width: 50%;
+    text-align: center;
+}
+
+.help-text p {
+    text-align: left;
+}
+
+.update {
+    text-align: center;
+}
+
+.subscribe {
+    text-align: center;
+}
+
+#subscribe-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    width: 400px;
+    height: 80px;
+    background-color: antiquewhite;
+
+}
+
+footer {
+    background-color: rgb(27, 2, 2);
+    color: rgb(201, 38, 13);
+    text-align: center;
+}
